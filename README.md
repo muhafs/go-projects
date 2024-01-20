@@ -1,2 +1,2 @@
 # go-projects
-go-lang project collection
+collection of go-lang projects
